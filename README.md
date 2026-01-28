@@ -106,7 +106,10 @@ pytz
 ## 📸 Screenshots
 
 ![Dashboard Screenshot](samples/1.png)
+---
 ![Dashboard Screenshot](samples/2.png)
+
+---
 ![Dashboard Screenshot](samples/3.png)
 
 ---
